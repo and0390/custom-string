@@ -1,0 +1,3 @@
+/home/andreasjhon/Documents/str/cmake-build-debug/CMakeFiles/str.dir
+/home/andreasjhon/Documents/str/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andreasjhon/Documents/str/cmake-build-debug/CMakeFiles/rebuild_cache.dir
